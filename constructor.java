@@ -27,7 +27,7 @@ import java.util.Scanner;
 
  int sum = sum(n1,n2);
  int mult = mult(n1,n2);
-// float div = div(n1,n2);
+ float div = div(n1,n2);
 
 
 // System.out.println("The sum is"+ sum);
