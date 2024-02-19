@@ -1,10 +1,10 @@
 import java.util.Scanner;
  public class constructors{
 
-// public static int sum(int num1,int num2){
-// int ans = num1 + num2;
-// return ans;
-// }
+ public static int sum(int num1,int num2){
+ int ans = num1 + num2;
+ return ans;
+ }
 
 // public static int mult(int num1,int num2){
 // int ans = num1 * num2;
@@ -35,5 +35,5 @@ import java.util.Scanner;
 // System.out.println("The div of "+n1+" and "+n2+" is "+ div);
 
 
-// }
+ }
 }
