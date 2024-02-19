@@ -32,7 +32,7 @@ import java.util.Scanner;
 
  System.out.println("The sum is"+ sum);
 
-// System.out.println(" The mult of "+n1+" and "+n2+" is"+ mult);
+ System.out.println(" The mult of "+n1+" and "+n2+" is"+ mult);
 // System.out.println("The div of "+n1+" and "+n2+" is "+ div);
 
 
