@@ -25,7 +25,7 @@ import java.util.Scanner;
  System.out.println("Enter the second number: ");
  int n2 = sc.nextInt();
 
-// int sum = sum(n1,n2);
+ int sum = sum(n1,n2);
 // int mult = mult(n1,n2);
 // float div = div(n1,n2);
 
