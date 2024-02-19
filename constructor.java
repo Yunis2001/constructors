@@ -10,10 +10,10 @@ import java.util.Scanner;
  int ans = num1 * num2;
  return ans;
  }
-// public static float div(int num1,int num2){
-// float ans = num1 / num2;
-// return ans;
-// }
+ public static float div(int num1,int num2){
+ float ans = num1 / num2;
+ return ans;
+ }
 
 
 // public static void main(String [] args){
